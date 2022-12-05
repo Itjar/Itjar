@@ -1,4 +1,4 @@
 <servers>
-<server name="INTERNAL STARnet" ca="0" continent_code="MY" country="bst" country_code="ID" ip="mumble-de.cleanvoice.com" port="38978" region="ID" url="http://radio.malagafm2.wapath.com" token=""/>
+<server name="INTERNAL STARnet" ca="0" continent_code="MY" country="bst" country_code="ID" ip="mumble-de.cleanvoice.com" port="3897" region="ID" url="http://radio.malagafm2.wapath.com" token=""/>
 </servers>
 
