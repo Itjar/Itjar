@@ -1,4 +1,13 @@
-<servers>
-<server name="INTERNAL STARnet" ca="0" continent_code="MY" country="bst" country_code="ID" ip="mumble-de.cleanvoice.com" port="38979" region="ID" url="http://radio.malagafm2.wapath.com" token=""/>
+<servers
+<server name="⚠️ GELORA ⚠️" ca="0" continent_code="XF" country="bst" country_code="ID" ip="mumble-us.cleanvoice.com" port="34150" region="ID" url="http://radio.malagafm2.wapath.com" token=""/>
+<server name="✴️ CHANNAL 01 ✴️" ca="0" continent_code="XF" country="bst" country_code="ID" ip="mumble-de.cleanvoice.com" port="38979" region="ID" url="http://radio.malagafm2.wapath.com" token=""/>
+<server name="✴️ CHANNAL 02 ✴️" ca="0" continent_code="XF" country="bst" country_code="ID" ip="mumble-us.cleanvoice.com" port="33769" region="ID" url="http://radio.malagafm2.wapath.com" token=""/>
+<server name="✴️ CHANNAL 03 ✴️" ca="0" continent_code="XF" country="bst" country_code="ID" ip="mumble-us.cleanvoice.com" port="33836" region="ID" url="http://radio.malagafm2.wapath.com" token=""/>
+<server name="✴️ CHANNAL 04 ✴️" ca="0" continent_code="XF" country="bst" country_code="ID" ip="mumble-de.cleanvoice.com" port="38407" region="ID" url="http://radio.malagafm2.wapath.com" token=""/>
+<server name="✴️ CHANNAL 05 ✴️" ca="0" continent_code="XF" country="bst" country_code="ID" ip="mumble-de.cleanvoice.com" port="38408" region="ID" url="http://radio.malagafm2.wapath.com" token=""/>
+<server name="✴️ CHANNAL 06 ✴️" ca="0" continent_code="XF" country="bst" country_code="ID" ip="mumble-us2.cleanvoice.com" port="56374" region="ID" url="http://radio.malagafm2.wapath.com" token=""/>
+<server name="✴️ CHANNAL 07 ✴️" ca="0" continent_code="XF" country="bst" country_code="ID" ip="mumble-us2.cleanvoice.com" port="56373" region="ID" url="http://radio.malagafm2.wapath.com" token=""/>
+<server name="✴️ CHANNAL 08 ✴️" ca="0" continent_code="XF" country="bst" country_code="ID" ip="mumble-us2.cleanvoice.com" port="56372" region="ID" url="http://radio.malagafm2.wapath.com" token=""/>
+<server name="✴️ CHANNAL 09 ✴️" ca="0" continent_code="XF" country="bst" country_code="ID" ip="mumble-us2.cleanvoice.com" port="56371" region="ID" url="http://radio.malagafm2.wapath.com" token=""/>
 </servers>
 
