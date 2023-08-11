@@ -1,5 +1,15 @@
 <servers>
-<div class="audio-floating-footer"><div class="container"><audio controls="controls" autoplay="autoplay"><source src="http://202.147.199.101:8000/;" type="audio/mp3">Your browser does not support the audio element.</audio></div></div></div>
+﻿<html>
+<head>
+     <title>belajar via smartphone</title>
+<body bgcolor='black' text='white'>
+</head>
+<body>
+<marquee>aku bisa tenan tenan aku pinter dan pinter tenan</marquee>
+<h1>aku adalah pemenang dan aku adalah juara dan yg terbaik dan yg terindah</
+h1>
+</body>
+</html>
 <server name="⚠️ GENTA ⚠️" ca="0" continent_code="XF" country="bst" country_code="ID" ip="mumble-us2.cleanvoice.com" port="56260" region="ID" url="http://radio.malagafm2.wapath.com" token=""/>
 <server name="⚠️ ALFAWELLA ⚠️" ca="0" continent_code="XF" country="bst" country_code="ID" ip="mumble-us.cleanvoice.com" port="34175" region="ID" url="http://radio.malagafm2.wapath.com" token=""/>
 <server name="⚠️ GELORA ⚠️" ca="0" continent_code="XF" country="bst" country_code="ID" ip="mumble-us.cleanvoice.com" port="34150" region="ID" url="http://radio.malagafm2.wapath.com" token=""/>
