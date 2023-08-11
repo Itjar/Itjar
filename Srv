@@ -1,5 +1,5 @@
 <servers>
-<server name="⚠️ G1⚠️" ca="0" continent_code="XF" country="bst" country_code="ID" ip="mumble-us.cleanvoice.com" port="34150"/>
+<server name="⚠️ G1⚠️" ip="mumble-us.cleanvoice.com" port="34150"/>
 <server name="⚠️ GENTA ⚠️" ca="0" continent_code="XF" country="bst" country_code="ID" ip="mumble-us2.cleanvoice.com" port="56260" region="ID" url="http://radio.malagafm2.wapath.com" token=""/>
 <server name="⚠️ ALFAWELLA ⚠️" ca="0" continent_code="XF" country="bst" country_code="ID" ip="mumble-us.cleanvoice.com" port="34175" region="ID" url="http://radio.malagafm2.wapath.com" token=""/>
 <server name="⚠️ GELORA ⚠️" ca="0" continent_code="XF" country="bst" country_code="ID" ip="mumble-us.cleanvoice.com" port="34150" region="ID" url="http://radio.malagafm2.wapath.com" token=""/>
