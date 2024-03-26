@@ -1,5 +1,5 @@
 <servers>
-<server name="✴️ Close-dex Server ✴️" ca="0" continent_code="XF" country="bst" country_code="ID" ip="mumble-us2.cleanvoice.com" port="56373" region="ID" url="http://radio.malagafm2.wapath.com" token=""/>
+<server name="✴️ CLASE-dex Server ✴️" ca="0" continent_code="XF" country="bst" country_code="ID" ip="mumble-us2.cleanvoice.com" port="56373" region="ID" url="http://radio.malagafm2.wapath.com" token=""/>
 <server name="✴️ Alternatif ✴️" ca="0" continent_code="XF" country="bst" country_code="ID" ip="mumble-us2.cleanvoice.com" port="56372" region="ID" url="http://radio.malagafm2.wapath.com" token=""/>
 <server name="✴️ Meeting ✴️" ca="0" continent_code="XF" country="bst" country_code="ID" ip="mumble-us2.cleanvoice.com" port="56371" region="ID" url="http://radio.malagafm2.wapath.com" token=""/>
 </servers>
